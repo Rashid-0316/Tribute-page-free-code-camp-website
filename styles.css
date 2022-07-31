@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+}
+#main{
+    background-color: #EEEEEE;
+    margin: 20px 7px 20px 7px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+header #title{
+    
+    font-size: 40px;
+}
+header {
+text-align: center;
+padding-top: 30px;
+padding-bottom: 10px;
+}
+
+#img-div{
+    margin: 10px;
+    border-radius: 5px;
+    background-color: white;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption{
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 14px;
+}
+#tribute-info{
+    max-width: 650px;
+    display: block;
+    margin: 0 auto;
+  
+    color: #333333;
+}
+ul{
+      padding:20px 0;
+}
+#tribute-info h3{
+    text-align: center;
+    padding: 20px 0 50px 0;
+}
+ul > li >span{
+    font-weight: bold;
+}
+ul > li {
+    font-weight: normal;
+    font-size: 15px;
+    padding: 10px 0px;
+    line-height: 29px;
+}
+q{
+    font-style: italic;
+    font-size: 14px;
+}
+#more{
+    padding: 20px 0px;
+    text-align: center;
+    color: #333333;
+}
